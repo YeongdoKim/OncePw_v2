@@ -72,7 +72,7 @@
         android:inputType="textPersonName"
         android:text="Send Data"
         app:layout_constraintStart_toEndOf="@+id/btnSendData"
-        app:layout_constraintTop_toTopOf="@+id/btnSendData" />
+        app:layout_constraintTop_toTopOf="@+id/btnSendData"/>
 
     <Button
         android:id="@+id/generateButton"
